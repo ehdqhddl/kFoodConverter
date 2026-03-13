@@ -1,0 +1,58 @@
+{
+  "appName": "K-Cook Math",
+  "tabs": {
+    "kmeasure": "K-Measure 🥄",
+    "portion": "Portions 👥",
+    "unit": "Units ⚖️"
+  },
+  "kmeasure": {
+    "title": "Korean Measurement Guide",
+    "subtitle": "Tap a unit to see the conversion",
+    "paperCup": "Paper Cup",
+    "paperCupSub": "종이컵 1컵",
+    "tablespoon": "Tablespoon",
+    "tablespoonSub": "밥숟가락 1큰술",
+    "teaspoon": "Teaspoon",
+    "teaspoonSub": "티스푼 1작은술",
+    "meatGeun": "Meat Geun",
+    "meatGeunSub": "고기 한 근",
+    "vegGeun": "Veggie Geun",
+    "vegGeunSub": "채소 한 근",
+    "pinch": "A Pinch",
+    "pinchSub": "한 꼬집",
+    "handful": "A Handful",
+    "handfulSub": "한 줌",
+    "note": "⚠️ Note: Korean paper cups (180ml) differ from US cups (240ml)!",
+    "copy": "Copy",
+    "copied": "Copied! ✅"
+  },
+  "portion": {
+    "title": "Portion Scaler",
+    "subtitle": "Scale recipe ingredients automatically",
+    "from": "Original Servings",
+    "to": "Target Servings",
+    "addIngredient": "+ Add Ingredient",
+    "ingredientName": "Ingredient name",
+    "amount": "Amount",
+    "unit": "Unit",
+    "remove": "Remove",
+    "result": "Scaled Result",
+    "noIngredients": "Add ingredients above to scale them"
+  },
+  "unit": {
+    "title": "Unit Converter",
+    "temperature": "🌡️ Temperature",
+    "weight": "⚖️ Weight",
+    "volume": "🧴 Volume",
+    "celsius": "Celsius (℃)",
+    "fahrenheit": "Fahrenheit (℉)",
+    "grams": "Grams (g)",
+    "ounces": "Ounces (oz)",
+    "kilograms": "Kilograms (kg)",
+    "pounds": "Pounds (lb)",
+    "milliliters": "Milliliters (ml)",
+    "flOunces": "Fl. Ounces (fl oz)"
+  },
+  "darkMode": "Dark Mode",
+  "lightMode": "Light Mode"
+}

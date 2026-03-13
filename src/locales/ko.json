@@ -1,0 +1,58 @@
+{
+  "appName": "K-쿡 매쓰",
+  "tabs": {
+    "kmeasure": "K-계량 🥄",
+    "portion": "인분 계산기 👥",
+    "unit": "일반 단위 ⚖️"
+  },
+  "kmeasure": {
+    "title": "한국식 계량 가이드",
+    "subtitle": "단위를 눌러 변환값을 확인하세요",
+    "paperCup": "종이컵",
+    "paperCupSub": "Paper Cup (1 cup)",
+    "tablespoon": "큰술 (밥숟가락)",
+    "tablespoonSub": "Tablespoon (1T)",
+    "teaspoon": "작은술 (티스푼)",
+    "teaspoonSub": "Teaspoon (1t)",
+    "meatGeun": "고기 한 근",
+    "meatGeunSub": "Meat - 1 Geun",
+    "vegGeun": "채소 한 근",
+    "vegGeunSub": "Vegetables - 1 Geun",
+    "pinch": "한 꼬집",
+    "pinchSub": "A Pinch",
+    "handful": "한 줌",
+    "handfulSub": "A Handful",
+    "note": "⚠️ 참고: 한국 종이컵(180ml)은 미국 컵(240ml)과 다릅니다!",
+    "copy": "복사",
+    "copied": "복사됨! ✅"
+  },
+  "portion": {
+    "title": "인분 계산기",
+    "subtitle": "재료를 입력하고 인분을 조절하세요",
+    "from": "기존 인분",
+    "to": "목표 인분",
+    "addIngredient": "+ 재료 추가",
+    "ingredientName": "재료 이름",
+    "amount": "용량",
+    "unit": "단위",
+    "remove": "삭제",
+    "result": "계산 결과",
+    "noIngredients": "위에서 재료를 추가하세요"
+  },
+  "unit": {
+    "title": "단위 변환기",
+    "temperature": "🌡️ 온도",
+    "weight": "⚖️ 무게",
+    "volume": "🧴 부피",
+    "celsius": "섭씨 (℃)",
+    "fahrenheit": "화씨 (℉)",
+    "grams": "그램 (g)",
+    "ounces": "온스 (oz)",
+    "kilograms": "킬로그램 (kg)",
+    "pounds": "파운드 (lb)",
+    "milliliters": "밀리리터 (ml)",
+    "flOunces": "액량 온스 (fl oz)"
+  },
+  "darkMode": "다크 모드",
+  "lightMode": "라이트 모드"
+}
